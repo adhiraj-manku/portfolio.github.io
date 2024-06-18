@@ -1,0 +1,87 @@
+body{
+background-color: black;
+height: 100vh;
+width: 100vw;
+}
+
+
+
+
+.start{
+text-align: center;
+background-color:lightslategray;
+color: lavenderblush;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+text-align: center;
+padding-top: 210px;
+height: 70vh;
+width: 100vw;
+}
+
+.start h1{
+    font-size: 75px;
+}
+
+.start h2{
+    font-size: 45px;
+}
+
+.intro{
+    text-align: center;
+    background-color: black;
+    color: lavenderblush;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    text-align: center;
+    height: 13vh;
+    width: 100vw;
+    }
+
+.edu{
+        text-align: center;
+        background-color:darkslategray;
+        color: lavenderblush;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+        text-align: center;
+        height: 15vh;
+        width: 100vw;
+        }
+        
+.skills{
+            text-align: center;
+            background-color: black;
+            color: lavenderblush;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+            text-align: center;
+            height: 15vh;
+            width: 100vw;
+            }     
+.clubs{
+                text-align: center;
+                background-color:slategrey;
+                color: lavenderblush;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+                text-align: center;
+                height: 15vh;
+                width: 100vw;
+                }
+.extra{
+                    text-align: center;
+                    background-color: black;
+                    color: lavenderblush;
+                    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+                    text-align: center;
+                    height: 16vh;
+                    width: 100vw;
+                    }
+.contact{
+                        text-align: center;
+                        background-color:steelblue;
+                        color: lavenderblush;
+                        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+                        text-align: center;
+                        height: 30vh;
+                        width: 100vw;
+                        }       
+.edu p{
+    font-size: 20px;
+}                               
